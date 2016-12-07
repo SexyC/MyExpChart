@@ -1,0 +1,13 @@
+*.png
+*.jpeg
+*.jpg
+*.bmp
+*.swp
+*/*.swp
+*.bak
+*.csv
+*.sca
+*.vci
+*.vec
+*.m
+node_modules/*
